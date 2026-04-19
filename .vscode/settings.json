@@ -1,10 +1,10 @@
 {
+  "java.jdt.ls.java.home": "/usr/local/sdkman/candidates/java/21.0.10-ms",
   "java.configuration.runtimes": [
     {
-      "name": "JavaSE-11",
-      "path": "/usr/local/sdkman/candidates/java/current",
+      "name": "JavaSE-21",
+      "path": "/usr/local/sdkman/candidates/java/21.0.10-ms",
       "default": true
     }
-  ],
-  "java.jdt.ls.java.home": "/usr/local/sdkman/candidates/java/current"
+  ]
 }

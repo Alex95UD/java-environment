@@ -5,8 +5,7 @@
       "type": "java",
       "name": "Run Tic Tac Toe Main",
       "request": "launch",
-      "mainClass": "game.Main",
-      "projectName": "miniature-pancake"
+      "mainClass": "game.Main"
     }
   ]
 }
